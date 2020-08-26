@@ -1,0 +1,1 @@
+/home/m/marconim/.pyenv/versions/3.6.8/lib/python3.6/encodings/shift_jisx0213.py
